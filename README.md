@@ -57,7 +57,9 @@ public class PlayerController : MonoBehaviour
 ~~~
 
 ## Output:
-![image](https://github.com/user-attachments/assets/bb43b303-ad9e-4d06-8e56-b21ca503190d)
+![image](https://github.com/user-attachments/assets/69faf3cb-079b-445d-9553-cfcf72d6eec5)
+![image](https://github.com/user-attachments/assets/a3296eb8-6dee-41f5-9bb5-7942e503eae4)
+
 
 ## Result:
 An animator movement for a player using unity is developed successfully.
